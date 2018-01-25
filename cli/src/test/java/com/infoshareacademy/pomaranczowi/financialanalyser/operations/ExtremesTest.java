@@ -1,4 +1,4 @@
-package com.infoshareacademy.pomaranczowi.financialanalyser;
+package com.infoshareacademy.pomaranczowi.financialanalyser.operations;
 
 import com.infoshareacademy.pomaranczowi.financialanalyser.financial.domain.Extremes;
 import com.infoshareacademy.pomaranczowi.financialanalyser.financial.domain.Price;
